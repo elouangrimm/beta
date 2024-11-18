@@ -44,7 +44,7 @@ twitter:
 
 bluesky:
   url   : https://bsky.app/profile/
-  icon  : fab fa-bluesky
+  icon  : fab fa-bsky
   color : 1da1f2
 
 youtube:
@@ -55,7 +55,7 @@ youtube:
 whatsapp:
   url   : https://wa.me/
   icon  : fab fa-whatsapp
-  color : ff0000
+  color : 25d366
 
 reddit:
   url   : https://www.reddit.com/u/
