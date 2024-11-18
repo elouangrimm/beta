@@ -1,0 +1,78 @@
+### Site Settings ###
+title               : Elouan Grimm
+description         : >-
+                      I mess around with tech :laptop:,
+                      tidy up Chrome with Tidy Tab Groups :card_index_dividers:,
+                      and snap photos with my crappy phone :iphone:.
+baseurl             : "/beta"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+open_new_tab        : true                    # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Elouan Grimm
+  image             : https://raw.githubusercontent.com/elouangrimm/elouangrimm/274f03ea2876291a47db6ab07b66f9c6f66019e2/profile.png
+  email             : elouan.grimm@gmail.com
+  github            : elouangrimm
+  instagram         : elouangrimm
+  spotify           : elouangrimm
+  twitter           : grimmelouan
+
+### Posts ###
+permalink: /posts/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Buy me a coffee ###
+# See https://www.buymeacoffee.com/
+buymeacoffee:
+  enabled: false
+  username: your_username
+  color: "#007bff"
+  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  description: "Support me on Buy me a coffee!"
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
+  - vendor
+  - Gemfile
+  - Gemfile.lock
