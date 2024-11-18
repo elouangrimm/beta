@@ -20,11 +20,13 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Elouan Grimm
   image             : https://raw.githubusercontent.com/elouangrimm/elouangrimm/274f03ea2876291a47db6ab07b66f9c6f66019e2/profile.png
-  email             : elouan.grimm@gmail.com
+  email             : hello@elouan.xyz
   github            : elouangrimm
   instagram         : elouangrimm
-  spotify           : elouangrimm
-  twitter           : grimmelouan
+  spotify-stats     : elouangrimm
+  bluesky           : elouan.xyz
+  whatsapp          : 19712661720
+  reddit            : elouangrimm
 
 ### Posts ###
 permalink: /posts/:title
