@@ -4,7 +4,7 @@ description         : >-
                       I mess around with tech :laptop:,
                       tidy up Chrome with Tidy Tab Groups :card_index_dividers:,
                       and snap photos with my crappy phone :iphone:.
-baseurl             : "/beta"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 open_new_tab        : true                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
