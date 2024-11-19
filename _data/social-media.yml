@@ -44,7 +44,7 @@ twitter:
 
 bluesky:
   url   : https://bsky.app/profile/
-  icon  : fab fa-user
+  icon  : fab fa-bluesky
   color : 1da1f2
 
 youtube:

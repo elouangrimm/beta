@@ -7,6 +7,10 @@ description         : >-
 baseurl             : ""             # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 open_new_tab        : true           # Opens external URLs in new tab (works for posts, projects and navbar only)
 
+description-seo     : Hi, I'm Elouan Grimm, a 13-year-old tech enthusiast with a passion for game development, photography, and coding. I’ve had the opportunity to contribute to Epimetheus Games, assisting in the creation of their first two indie games, EyeSore and Project Prometheus. You can check out these innovative games on itch.io.
+                      In addition to my work in game development, I am an active contributor to the Tidy Tab Groups project, created by @MoeBazziGIT. I play an important role in enhancing the user experience, and you can join the community on Discord to collaborate and engage with fellow developers!
+                      Based in Cape Town, I am bilingual, fluent in French and English, which allows me to collaborate with a diverse community of tech enthusiasts worldwide. When I’m not coding or developing games, I’m behind the camera, capturing moments with my phone, which I share on Instagram through my photography posts.
+                      Explore my projects, games, and more on my personal site. Whether you’re into tech, indie games, or photography, you’ll find something exciting here.
 
 ### Navbar Settings ###
 nav_exclude:                         # The following paths are excluded from navbar
