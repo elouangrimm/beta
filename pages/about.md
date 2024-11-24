@@ -20,12 +20,8 @@ I recently moved to Cape Town 🌍🏞️, and I’m fluent in French 🇫🇷 a
 
 <h2>Stats</h2>
 <br>
-
 <p align="left">
-
 <img src="https://github-readme-stats.vercel.app/api?username=elouangrimm&show_icons=true&theme=github_dark&locale=en" alt="elouangrimm" />
-
 <a href="https://github.com/elouangrimm"><img src="https://streak-stats.demolab.com?user=elouangrimm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=17191A&ring=047CFC&stroke=323638&fire=047CFC&currStreakNum=59A6FC&sideNums=047CFC&currStreakLabel=047CFC&sideLabels=047CFC&excludeDaysLabel=047CFC&dates=7F8A90" alt="GitHub Streaks" /></a>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=elouangrimm&theme=gitdimmed" alt="elouangrimm" />
-
 </p>
