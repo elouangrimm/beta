@@ -7,7 +7,11 @@ weight: 1
 
 # **About Me**
 
-Hey, I’m **{{ site.author.name }}** and I love messing around with tech 💻. I helped Epimetheus Games out with their first two games, EyeSore and Project Prometheus 🎮 (you can check 'em out on itch). I’ve been helping out with @MoeBazziGIT’s Tidy Tab Groups project 🧹 (Hey! Join the Discord HERE!!!). I live in Cape Town 🌍 and speak French 🇫🇷 and English 🇬🇧 fluently. I love photography 📸 and I take pictures with my crappy phone 📱 and post them on Insta 📷.
+Hey, I’m **{{ site.author.name }}** and I love messing around with tech 💻✨. I’m always exploring how tech works 🔍⚙️—whether it’s tinkering with Chrome extensions 🖱️ or learning new programming techniques 👨‍💻!
+
+I helped Epimetheus Games 🎮 with their first two games, EyeSore 👁️‍🗨️ and Project Prometheus 🔥, and both won the top prize 🏆 at the Oregon Game Project Challenge 🥳. I’ve also been contributing to @MoeBazziGIT’s Tidy Tab Groups project 🧹📂.
+
+I recently moved to Cape Town 🌍🏞️, and I’m fluent in French 🇫🇷 and English 🇬🇧. I love photography 📸 and take pictures with my crappy phone 📱😂, sharing them on Instagram 📷✨.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

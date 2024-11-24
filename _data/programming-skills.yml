@@ -1,5 +1,5 @@
 - name: HTML5
-  percentage: 80
+  percentage: 79
   color: danger
 
 - name: CSS
@@ -7,9 +7,9 @@
   color: success
 
 - name: JS
-  percentage: 75
+  percentage: 61
   color: info
 
 - name: Python
-  percentage: 79
+  percentage: 75
   color: secondary

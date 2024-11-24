@@ -5,8 +5,11 @@ permalink: /minimalnewtab/
 weight: 5
 ---
 
-# **Minimal New Tab**
+# **Minimal New Tab **
 ### **An extremely minimal New Tab Page, that just creates a solid color page from a color picker**
+
+> [!NOTE]  
+> This page is still WIP.
 
 <a href="https://chromewebstore.google.com/detail/tidy-tab-groups/fmnangpmhapcdjpnfjanckicmmhodgka">
 <img style="height:100px" src="https://user-images.githubusercontent.com/53124886/111952712-34f12300-8aee-11eb-9fdd-ad579a1eb235.png">
