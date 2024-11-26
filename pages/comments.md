@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Comments | elouan.xyz"
+title: "Comments"
 permalink: /comments/
 bluesky_post_uri: "https://bsky.app/profile/elouan.xyz/post/3lbta5sfvhs2w"
+weight: 7
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.3.0/dist/bluesky-comments.css">
