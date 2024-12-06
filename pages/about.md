@@ -5,6 +5,16 @@ permalink: /about/
 weight: 1
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JM3D7NSQ6H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JM3D7NSQ6H');
+</script>
+
 # **About Me**
 
 Hey, I’m **{{ site.author.name }}** and I love messing around with tech 💻✨. I’m always exploring how tech works 🔍⚙️—whether it’s tinkering with Chrome extensions 🖱️ or learning new programming techniques 👨‍💻!
