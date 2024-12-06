@@ -25,3 +25,6 @@ I recently moved to Cape Town 🌍🏞️, and I’m fluent in French 🇫🇷 a
 <a href="https://github.com/elouangrimm"><img src="https://streak-stats.demolab.com?user=elouangrimm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=17191A&ring=047CFC&stroke=323638&fire=047CFC&currStreakNum=59A6FC&sideNums=047CFC&currStreakLabel=047CFC&sideLabels=047CFC&excludeDaysLabel=047CFC&dates=7F8A90" alt="GitHub Streaks" /></a>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=elouangrimm&theme=gitdimmed&title=Commits,Repositories,Experience,Stars,Issues" />
 </p>
+
+<script data-goatcounter="https://elouan.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

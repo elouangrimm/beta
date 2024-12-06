@@ -32,3 +32,7 @@ To install Minimal New Tab, you have two options:
 3. Enable Developer mode (hint: it's in the upper right hand corner)
 4. Drag the file you downloaded (the `.crx` file) onto the page and it will ask you if you want to download it!
 5. Click `Accept`, then you are done! Great job!
+
+
+<script data-goatcounter="https://elouan.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
